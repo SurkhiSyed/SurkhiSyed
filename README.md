@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Syed Kaab Surkhi
 ### Computer Engineer | ML Enthusiast  
-![Computer Engineer | ML Enthusiast  ](https://media.discordapp.net/attachments/1032102639908966472/1284943394405355531/1714163301511.jpg?ex=66e8784a&is=66e726ca&hm=9995a4b3aa17881032a0b0ead68106c8368aa606c4e81ac080c847a5ecb6f5bd&=&format=webp&width=2160&height=540)
+![Computer Engineer | ML Enthusiast  ](https://github.com/user-attachments/assets/e1d87986-5d16-4920-bd4e-98c0fe98a5f5)
 
 ## About Me:
 As a passionate programmer, I enjoy developing solutions to prevalent problems. I spend a lot of time expanding my knowledge in machine learning and hope to bring forth futuristic solutions throughout my engineering career. My goal is to develop skills in robotics engineering, all while expanding my knowledge and skills in the engineering field. With many hidden societal issues revealed over the recent years, I became fascinated with promoting change. Far beyond studying and earning my degree, I plan to create technologies to benefit overlooked communities. Feel free to reach out, I'm always interested in upcoming opportunities.
